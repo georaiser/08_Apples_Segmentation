@@ -4,6 +4,8 @@ __pycache__/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+Apples_Segmentation.html
+
 # model
 #*.pth
 
