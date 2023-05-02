@@ -7,7 +7,7 @@ __pycache__/
 Apples_Segmentation.html
 
 # model
-#*.pth
+*.pth
 
 max_data/
 Sk_background/
